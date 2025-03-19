@@ -13,15 +13,14 @@ This is a weather application built with **Flutter** that fetches real-time weat
 
 ## 📸 Screenshots
 
-_(assets/img/demo.PNG)_
 ### 🌞 Light Theme
-![Light Theme](assets/img/demo.PNG)
+![Light Theme](assets/img/light_theme.png)
 
 ### 🌙 Dark Theme
-![Dark Theme](screenshots/dark_theme.png)
+![Dark Theme](assets/img/dark_theme.png)
 
 ### 📅 7-Day Forecast
-![7-Day Forecast](screenshots/forecast.png)
+![7-Day Forecast](assets/img/forecast.png)
 
 ## 🚀 Installation
 
@@ -30,7 +29,7 @@ _(assets/img/demo.PNG)_
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
    ```
-2**Install dependencies**
+2. **Install dependencies**
   ````sh
   flutter pub get
   flutter run
