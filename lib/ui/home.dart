@@ -50,7 +50,6 @@ class _HomePageState extends State<HomePage> {
             icon: context.read<ThemeChangeProvider>().isDarkMode?const Icon(Icons.light_mode):const Icon(Icons.dark_mode_outlined),
           ),
         ],
-        foregroundColor: Colors.white,
       ),
       body: SafeArea(
         child: FutureBuilder(

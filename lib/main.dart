@@ -25,10 +25,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Weather App',
       theme: lightTheme,
       home: HomePage(),
       darkTheme: darkTheme,
+      debugShowCheckedModeBanner: false,
       themeMode:context.watch<ThemeChangeProvider>().isDarkMode? ThemeMode.dark:ThemeMode.light
 
     );
