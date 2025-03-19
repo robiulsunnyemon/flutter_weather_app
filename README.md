@@ -14,6 +14,14 @@ This is a weather application built with **Flutter** that fetches real-time weat
 ## 📸 Screenshots
 
 _(assets/img/demo.PNG)_
+### 🌞 Light Theme
+![Light Theme](assets/demo.PNG)
+
+### 🌙 Dark Theme
+![Dark Theme](screenshots/dark_theme.png)
+
+### 📅 7-Day Forecast
+![7-Day Forecast](screenshots/forecast.png)
 
 ## 🚀 Installation
 
