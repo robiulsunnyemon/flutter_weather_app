@@ -13,7 +13,7 @@ This is a weather application built with **Flutter** that fetches real-time weat
 
 ## 📸 Screenshots
 
-_(Add screenshots of your app here)_
+_(assets/img/demo.PNG)_
 
 ## 🚀 Installation
 
